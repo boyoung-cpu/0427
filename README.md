@@ -2,4 +2,4 @@
 
 * This is eunsoo. Nice to meet you guys~
 * Do u know Kimchi?
-* I love kimchi.
+* I love kimchi.~~~
